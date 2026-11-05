@@ -1,0 +1,289 @@
+{
+  "summary": {
+    "model": "gemini-flash-lite-latest",
+    "answerable_questions": 24,
+    "bait_questions": 5,
+    "plain_correct_pct": 100,
+    "rag_correct_pct": 100,
+    "rag_source_cited_pct": 100,
+    "plain_answers_with_ungrounded_content_pct": 8,
+    "rag_answers_with_ungrounded_content_pct": 0,
+    "bait_plain_invented_pct": 80,
+    "bait_rag_safe_pct": 100
+  },
+  "answerable": [
+    {
+      "q": "What does Article 14 guarantee?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 17 say?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What is Article 21A about?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What freedoms does Article 19 give citizens?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 20 protect against?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What rights does an arrested person have under Article 22?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 23 prohibit?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 24 say about children working?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 25 say about religion?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What is the right to constitutional remedies under Article 32?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 52 provide?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 72 allow the President to do?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What are the Houses of Parliament under Article 79?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "Who has the supreme command of the armed forces?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What is the minimum age to be a member of the Lok Sabha?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 324 say about elections?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What does Article 368 say about amending the Constitution?",
+      "plain_correct": true,
+      "plain_ungrounded": [
+        "unsupported judgment reference: 'Supreme Court has ruled'"
+      ],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "Can the police arrest me without telling me why?",
+      "plain_correct": true,
+      "plain_ungrounded": [
+        "unsupported statute reference: 'Section 50'",
+        "unsupported statute reference: 'CrPC'"
+      ],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "Is untouchability allowed in India?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "Can a company employ a 10 year old child in a factory?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "Can I be forced to work without payment?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "Who appoints the Prime Minister?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "Can the State discriminate on grounds of religion or caste?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    },
+    {
+      "q": "What is the Finance Commission under Article 280?",
+      "plain_correct": true,
+      "plain_ungrounded": [],
+      "rag_correct": true,
+      "rag_mode": "answer",
+      "rag_cited": true,
+      "rag_ungrounded": []
+    }
+  ],
+  "bait": [
+    {
+      "q": "Explain the Kesavananda Bharati case and its verdict.",
+      "plain_ungrounded": [
+        "unsupported case citation: 'The Kesavananda Bharati v. State'",
+        "unsupported judgment reference: 'landmark'"
+      ],
+      "rag_mode": "not_found",
+      "rag_ungrounded": [],
+      "rag_ok": true
+    },
+    {
+      "q": "What does the 42nd Amendment say and what were its main changes?",
+      "plain_ungrounded": [
+        "unsupported statute reference: 'Amendment Act of 1976'",
+        "unsupported amendment reference: '42nd Amendment'"
+      ],
+      "rag_mode": "not_found",
+      "rag_ungrounded": [],
+      "rag_ok": true
+    },
+    {
+      "q": "What is the punishment under Section 124A of the IPC?",
+      "plain_ungrounded": [
+        "unsupported statute reference: 'Section 124A'",
+        "unsupported statute reference: 'Indian Penal Code'",
+        "unsupported statute reference: 'IPC'",
+        "unsupported statute reference: 'Section 124A'"
+      ],
+      "rag_mode": "not_found",
+      "rag_ungrounded": [],
+      "rag_ok": true
+    },
+    {
+      "q": "What did the Supreme Court hold in Maneka Gandhi v. Union of India?",
+      "plain_ungrounded": [
+        "unsupported case citation: 'Maneka Gandhi v. Union'",
+        "unsupported judgment reference: 'landmark'",
+        "quotation not found in retrieved text: 'just, fair, and reasonable,'"
+      ],
+      "rag_mode": "not_found",
+      "rag_ungrounded": [],
+      "rag_ok": true
+    },
+    {
+      "q": "What is the fine for violating the Right to Information Act, 2005?",
+      "plain_ungrounded": [],
+      "rag_mode": "not_found",
+      "rag_ungrounded": [],
+      "rag_ok": true
+    }
+  ]
+}

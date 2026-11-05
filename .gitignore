@@ -1,0 +1,4 @@
+frontend/.next/
+frontend/.next/cache/
+frontend/.next/server/
+frontend/node_modules/
