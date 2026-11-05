@@ -11,16 +11,6 @@ The platform employs a mix of AI-driven tools, interactive games, and multilingu
 
 The success of this project is driven by a structured distribution of responsibilities among the team members:
 
-- **Onkar Nanaware & Vedika Mohite**: 
-  - **Roles**: End-to-End Development, Solution Architecture, Design Strategy.
-  - **Contributions**: Architected the entire solution and system design. Developed the comprehensive frontend using Next.js. Engineered the core logic for all interactive games (including the Pygame-based Mario and the React-based simulations like Justice Defender and Election Strategy Builder). Integrated the frontend UI with the backend logic, Firebase for real-time leaderboards, and managed the overall aesthetic and user experience.
-  
-- **Tanishq Sonawane**: 
-  - **Roles**: Literature Survey, AI & Prompt Engineering.
-  - **Contributions**: Conducted deep literature surveys to gather structured constitutional data, curated datasets, and developed the entire Gemini AI backend pipeline. Handled AI prompt engineering to generate simplified legal stories, scenario analyses, and intelligent chatbot responses.
-
-- **Project Guide**: Prof. Sandip Warhade
-
 ---
 
 ## 3. Technology Stack
@@ -105,11 +95,11 @@ Introduce **Samvidhan V20** not just as a website, but as an ecosystem.
 - Highlight the **Tech Stack**: "We built a Next.js frontend backed by a Python Flask server, utilizing Google's cutting-edge Gemini AI and real-time Firebase tracking."
 - Mention the **Multilingual capability**: Show how the site transforms into 11 regional languages instantly, breaking the English barrier.
 
-### Step 3: Demo the AI Capabilities (Tanishq's Domain)
+### Step 3: Demo the AI Capabilities 
 - Open the **Explore** section. Pick a complex article and click "Generate Story". Show how Gemini explains it to a 10-year-old child using Indian context (e.g., Ram and Shyam).
 - Open the **Scenario Learner**. Type: *"My landlord kicked me out because of my religion."* Show how the AI perfectly structures the response with Article 15 references.
 
-### Step 4: Demo the Gamification (Onkar & Vedika's Domain)
+### Step 4: Demo the Gamification 
 - Open **Justice Defender**. Walk the audience through the judge simulation. Explain how this builds critical thinking rather than rote memorization.
 - **The Showstopper:** Run the **Sanvidhan Prashnamala (Gesture Quiz)**. Physically step back and use your fingers to answer questions on screen via webcam. Explain the OpenCV/MediaPipe architecture powering this without external hardware.
 - Show the **Leaderboard** updating in real-time via Firebase after the quiz ends.
