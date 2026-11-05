@@ -82,10 +82,6 @@ This project is open-source and available under the **MIT License**.
 ## ✨ Acknowledgments
 Special thanks to all contributors and the support team for making this project a reality!
 
-**Developed by:** 
-[Nutan Birajdar](https://github.com/Nutan-B)
-[Onkar Nanaware](https://github.com/OnkarNanaware)
-
 
 ## 📢 Additional Notes
 - The project leverages AI-powered storytelling and gamification to simplify complex constitutional concepts.
