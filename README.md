@@ -28,12 +28,6 @@ Make sure you have the following installed:
 - **Python 3** (for backend) – [Download](https://www.python.org/)
 - **Firebase CLI** (for database management) – [Guide](https://firebase.google.com/docs/cli)
 
-### **🔹 Clone the Repository**
-```sh
- git clone https://github.com/Sahil-memane/Samvidhan.git
- cd Samvidhan
-```
-
 ---
 
 ## 🖥️ Frontend Setup (Next.js + React)
